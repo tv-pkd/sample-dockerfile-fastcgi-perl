@@ -4,5 +4,5 @@ spec:
   - dockerfile_path: Dockerfile
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-dockerfile-fastcgi-perl.git
+      repo_clone_url: https://github.com/tv-pkd/sample-dockerfile-fastcgi-perl.git
     name: sample-dockerfile-fastcgi-perl
