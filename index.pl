@@ -2,7 +2,7 @@
 use strict;
 use warnings;
 
-use CGI;
+use CGI qw(:standard);
 
 print "Content-type: text/plain\n\n";
-print "reverted adding includes"
+print "rCGI qw(:standard)s"
